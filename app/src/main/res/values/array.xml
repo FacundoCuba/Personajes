@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numeroDeMiembros">
+        <item>2 miembros</item>
+        <item>4 miembros</item>
+        <item>6 miembros</item>
+        <item>8 miembros</item>
+    </string-array>
+</resources>

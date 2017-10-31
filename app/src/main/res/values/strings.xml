@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personajes</string>
+    <string name="checkbox">Humano</string>
+    <string name="rbRojo">Rojo</string>
+    <string name="rbVerde">Verde</string>
+    <string name="rbAzul">Azul</string>
+    <string name="txtImagen">Cree su personaje</string>
+</resources>
